@@ -8,4 +8,4 @@ So, Today I am sharing COVID 19 Realtime Update Table With Sort and Search featu
 This program is fully dynamic and responsive in design. You can use this program to create your own live coronavirus update website or placing in your existing website.
 Stay safe & Stay Home ...Happy Coding :)
 
-Visit : [https://pavandeveloperr.github.io/realtimecovid19updatetable/]realtimecovid_data
+Visit : [**realtimecovid19_updatetable**](https://pavandeveloperr.github.io/realtimecovid19updatetable/)
