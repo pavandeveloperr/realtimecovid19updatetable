@@ -28,11 +28,11 @@ axios.interceptors.response.use(
 );
 
 function getGlobalData() {
-  return axios.get("https://corona.lmao.ninja/v2/all");
+  return axios.get("https://corona.lmao.ninja/v3/all");
 }
 
 function getCountriesData() {
-  return axios.get("https://corona.lmao.ninja/v2/countries");
+  return axios.get("https://corona.lmao.ninja/v3/countries");
 }
 
 axios
